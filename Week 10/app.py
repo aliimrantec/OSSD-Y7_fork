@@ -18,8 +18,7 @@ def main():
     pass
 
 root = tk.Tk()
-root.title("Login System")    
-
+root.title("Login System")   
 
 
 root.mainloop()
